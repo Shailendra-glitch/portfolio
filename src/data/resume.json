@@ -1,0 +1,52 @@
+{
+  "basics": {
+    "name": "Shailendra Prajapati",
+    "title": "AI/ML Undergraduate @ BIET Jhansi | Learning Python & Data Science | Passionate About Coding & Innovation",
+    "summary": "I am an aspiring engineer pursuing B.Tech in Artificial Intelligence & Machine Learning at BIET Jhansi with a strong interest in coding, problem-solving, and emerging technologies. Currently building my foundation in C, Python, and Data Structures & Algorithms, I aim to grow as a professional who can contribute to both core engineering and technology-driven innovation. Alongside academics, I actively explore Machine Learning, Generative AI, and real-world applications of AI to strengthen my skill set. I am also open to opportunities in competitive exams (GATE/SSC JE) while keeping a strong focus on developing a career in software development, AI/ML, and research-driven fields.",
+    "location": "Jhansi, Uttar Pradesh, India",
+    "email": "prajapatishailendra319@gmail.com",
+    "phone": "",
+    "links": [
+      {
+        "name": "LinkedIn",
+        "url": "www.linkedin.com/in/shailendra-aiml-learner"
+      }
+    ]
+  },
+  "experience": [],
+  "achievements": [],
+  "projects": [],
+  "skills": [
+    {
+      "category": "Top Skills",
+      "items": [
+        "Python",
+        "C Programming",
+        "Data Structures",
+        "Machine Learning",
+        "Problem Solving"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "BUNDELKHAND INSTITUTE OF ENGINEERING AND TECHNOLOGY, JHANSI",
+      "degree": "Bachelor of Technology - BTech, Computer Science (Artificial Intelligence & Machine Learning)",
+      "dates": "August 2025 - June 2029",
+      "location": ""
+    },
+    {
+      "institution": "Alpine public school",
+      "degree": "High school and intermediate , Science stream (PCM)",
+      "dates": "April 2020 - March 2024",
+      "location": ""
+    }
+  ],
+  "certifications": [],
+  "awards": [],
+  "extra": [
+    "Interests: Coding, Artificial Intelligence, Electrical Systems, Problem-Solving, Research",
+    "Goals: To build a solid career in AI/ML while contributing to impactful projects in technology & engineering",
+    "Page 1 of 1"
+  ]
+}
